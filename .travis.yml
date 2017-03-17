@@ -24,7 +24,7 @@ notifications:
 
 deploy:
   provider: releases
-  api_key:  ded7e499c2770d264b431d375f7984c00ad013dd 
+  api_key:  860325b4a2f27137241eed873ecbbaa9cae89e70
   skip_cleanup: true
   on:
     branch: master
